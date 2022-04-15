@@ -1,0 +1,2 @@
+This is my first git doc
+i am configuring the git and github
