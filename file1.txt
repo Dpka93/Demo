@@ -1,2 +1,3 @@
 This is my first git doc
 i am configuring the git and github
+am adding a line to check the new branch dev
